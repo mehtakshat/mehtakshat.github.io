@@ -1,0 +1,13 @@
+#interests-card .svg-inline--fa, .cus-services .svg-inline--fa{
+    vertical-align: -0.30em;
+}
+
+.skills-list.list ul li .name:before{
+    content: "\f00c";
+    font-family: "Fontawesome";
+}
+
+.myBtn-Work{
+    display: block;
+    margin: 0 auto;
+}
